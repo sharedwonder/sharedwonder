@@ -1,7 +1,5 @@
 ***Anything is possible!***
 
-Hello, world!
-
 - 👋 Hi, I’m Liu Baihao.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning in a middle school.

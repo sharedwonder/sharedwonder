@@ -4,7 +4,7 @@
 
 ## About Me
 
-- *Interested:* system tools, framework/library development, games, Internet
+- *Interested:* system tools, framework/library, games, Internet
 - *Job:* middle school student
 
 ## Contact Me

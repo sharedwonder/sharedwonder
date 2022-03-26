@@ -6,7 +6,7 @@
 
 - *Interested:* system tools, framework/library, games, Internet
 - *Job:* middle school student
-- *Learning Languages:* C, C++, C#, Java, Python, Markdown, JavaScript, HTML, PowerShell, Batch (Cmd)
+- *Learning Languages:* C, C++, C#, Java, Python, JavaScript, HTML, Markdown, PowerShell, Batch (Cmd)
 
 ## Contact Me
 

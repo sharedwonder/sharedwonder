@@ -21,5 +21,5 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharedwonder&layout=compact&theme=dark" />
+  <img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharedwonder&theme=dark" />
 </a>

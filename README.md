@@ -16,10 +16,6 @@
 
 ## Statistics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="Liu Baihao's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sharedwonder&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
-</a>
+[![](https://github-readme-stats.vercel.app/api?username=sharedwonder&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharedwonder&theme=dark" />
-</a>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharedwonder&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
